@@ -2,17 +2,17 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Nishtha%20Lath's%20World&fontSize=25&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Nishtha%20Lath's%20World&fontSize=30&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=60&lines=Innovative+Coder.;Cybersecurity+Enthusiast.;AI+and+ML+Researcher.;Exploring+Endless+Possibilities.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=40&lines=Innovative+Coder.;Cybersecurity+Enthusiast.;AI+and+ML+Researcher.;Exploring+Endless+Possibilities.">
 </p>
 
 ---
 
 ## 👩‍💻 **About Me**
-- 🌟 **Name**: Nishtha Lath  
+- 🌟 **Name**: Lath Nishtha  
 - 🌍 **Based in**: Daegu, South Korea  
 - 🎓 **Education**:  
   - **BS in Computer Science and Engineering**, Kyungpook National University *(2022–2026)*  
@@ -21,10 +21,12 @@
 
 ---
 
-## 📄 **My Resume**
+## 📄 **Find Me At**
 <p align="center">
-  <a href="Resume.pdf[Resume.pdf](https://github.com/user-attachments/files/17968168/Resume.pdf)
-" download><img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nishtha-lath-335206276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lathnishtha775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[Resume.pdf](https://github.com/user-attachments/files/17968195/Resume.pdf)
+" target="_blank"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 ---
@@ -88,17 +90,8 @@
 
 ---
 
-## 🌍 **Let’s Connect**
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishtha-lath-335206276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lathnishtha775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/NishthaLath" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Innovating!&fontSize=25&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Keep%20Innovating!&fontSize=30&fontAlignY=65" />
 </p>
 
 ---
