@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nishtha-lath-335206276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lathnishtha775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/NishthaLath/NishthaLath/blob/96f6f59e95b1b8553b5933deffda28d5940f64df/MyFiles/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://github.com/NishthaLath/NishthaLath/blob/ae973452fcfc17c4f653018523ba5dc5da62cd6e/MyFiles/Resume%20(Lath%20Nishtha).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 ---
