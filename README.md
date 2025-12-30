@@ -28,7 +28,7 @@
   <a href="MyFiles /Resume (Lath Nishtha).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
   <!-- 이력서 (Korean) -->
   <a href="이력서_니스타(2022427833).pdf" target="_blank">
-    <img src="https://img.shields.io/badge/이력서%20(KR)-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+    <img src="https://img.shields.io/badge/이력서-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 
