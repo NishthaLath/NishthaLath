@@ -26,6 +26,10 @@
   <a href="https://www.linkedin.com/in/nishtha-lath-335206276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lathnishtha775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="MyFiles /Resume (Lath Nishtha).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <!-- 이력서 (Korean) -->
+  <a href="이력서_니스타(2022427833).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/이력서%20(KR)-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
 </p>
 
 ---
