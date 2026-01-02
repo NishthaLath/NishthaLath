@@ -1,97 +1,75 @@
+# Nishtha Lath (니스타)
+
+**Computer Science & Engineering Student** | Kyungpook National University  
+**Focus:** AI Systems · LLM Applications · Full-Stack Development · Research
+
+I build AI-driven systems that solve real problems—from conversational interfaces for accessible kiosks to RAG-based disaster response tools. My work combines research depth with production deployment experience.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Nishtha%20Lath's%20World&fontSize=30&fontAlignY=40" />
-</p>
+## Experience
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0078D4&center=true&vCenter=true&width=900&height=40&lines=Innovative+Coder.;Web-Development+Enthusiast.;AI+and+ML+Researcher.;Exploring+Endless+Possibilities.">
-</p>
+**Frontend Developer Intern (Team Leader)** | RikkeiSoft Corporation  
+*Dec 2024 – Jan 2025*
 
----
+Led frontend development for an internal AI chatbot platform serving employees, administrators, and clients. Architected the entire React/TypeScript UI with role-based dashboards, prompt customization, and file management systems.
 
-## 👩‍💻 **About Me**
-- 🌟 **Name**: Lath Nishtha  
-- 🌍 **Based in**: Daegu, South Korea  
-- 🎓 **Education**:  
-  - **BS in Computer Science and Engineering**, Kyungpook National University *(2022–2026)*  
-- ✨ **Soft Skills**: Leadership, Critical Thinking, Effective Communication  
-- 🌱 **Languages**: English (Fluent), Hindi (Native), Korean (Advanced, TOPIK 5)  
+**Undergraduate Lab Intern** | Intelligent Software Systems Lab, KNU  
+*Oct 2025 – Dec 2025*
+
+Built RAG-based disaster response assistant integrating legal manuals, population data, and geospatial risk information. Implemented FAISS vector store with LangChain pipelines and optimized FastAPI backend for fast, context-aware decision support.
 
 ---
 
-## 📄 **Find Me At**
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishtha-lath-335206276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lathnishtha775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="Resume (Lath Nishtha).pdf" target="_blank"><img src="https://img.shields.io/badge/Resume_(English)-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="이력서_니스타(2022427833).pdf" target="_blank"><img src="https://img.shields.io/badge/이력서_(Korean)-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-</p>
+## Research
+
+**Evaluating LLaMA Model for Enhanced Conversational AI in Voice Recognition Kiosks**  
+UCWIT 2024 (KIISE) · **🏆 Excellent Paper Award** (Top 4 / 47 teams)
+
+Comparative analysis demonstrating LLaMA's superiority over rule-based frameworks (RASA) in handling ambiguous, multi-intent conversational input for real-world kiosk environments.
 
 ---
 
-## 🌟 **What I Do**
-- 💻 **Programming Expertise**: Python, Java, C++, JavaScript, HTML/CSS  
-- 🧠 **Specializations**:  
-  - Machine Learning (NLP, Conversational AI, LLMs)  
-  - Cybersecurity (CTF Challenges, Web Security)  
-  - Backend Development (Java, Spring Boot, Node.js)  
-  - API and Cloud Services (Google Cloud APIs, RESTful APIs)  
+## Selected Projects
+
+**[SheBots – AI-Integrated RAG Chatbot](https://github.com/NishthaLath/SheBots)**  
+Production-deployed department information assistant using GPT-4.1, FAISS, and LangChain. Solved complex deployment challenges including AWS EC2 configuration, Docker containerization, and NGINX reverse proxy setup.
+
+**[AI-Driven Voice Recognition Cafe Kiosk](https://github.com/AI-coffee-Kiosk)**  
+Accessibility-focused ordering system using fine-tuned LLaMA models with Unsloth. Handles complex multi-item orders through advanced prompt engineering and deployed via Hugging Face Hub.
+
+**[Visioned – Accessible Public Transportation Kiosk](https://github.com/VISIONED-KNU)**  
+Voice-driven navigation system for elderly users integrating Google Cloud APIs (STT, TTS, Maps) with Node.js backend and React frontend. Human-centered design with route optimization.
+
+**[AI-Based Multi-CCTV Person Detection & Behavior Analysis](https://github.com/NishthaLath/AI-CCTV)**  
+Surveillance system combining YOLO + DeepSORT for tracking, ST-GCN for action recognition, and FaceNet + OSNet for cross-camera re-identification.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishthaLath&show_icons=true&theme=dracula&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishthaLath&layout=compact&theme=dracula&hide_border=true" width="48%">
-</div>
+## Technical Skills
+
+**Languages:** Python · Java · JavaScript · C · C++  
+**AI/ML:** LLaMA · GPT · RAG · LangChain · FAISS · PyTorch · Transformers · Prompt Engineering  
+**Web:** React.js · TypeScript · FastAPI · Spring Boot · Node.js · Tailwind CSS  
+**Infrastructure:** Docker · NGINX · AWS EC2 · RESTful APIs  
+**Computer Vision:** YOLO · DeepSORT · MediaPipe · ST-GCN · OpenCV  
+**Languages:** English (Fluent) · Hindi (Native) · Korean (Advanced, TOPIK 5)
 
 ---
 
-## 🚀 **My Projects**
-### 🏆 **Recent Highlights**
-- **길: 벗 (Visioned) – Accessible Public Transportation Kiosk** *(Oct 2024 – Nov 2024)*  
-  Simplified navigation for seniors using voice-driven interfaces.  
-  [Explore Code](https://github.com/VISIONED-KNU)  
+## Recognition
 
-- **AI-Driven Voice Recognition Kiosk For Cafe Orders** *(Sep 2024 – Present)*  
-  Enhanced accessibility with the LLaMA 3 model for dynamic orders.  
-  [Explore Code](https://github.com/AI-coffee-Kiosk)  
-
-- **KERT Cybersecurity Club Website** *(Aug 2024 – Nov 2024)*  
-  Built a secure, optimized backend for the club’s website.  
-  [Explore Code](https://github.com/NishthaLath/KERT_Backend)  
+- **Global Korea Scholarship** (2022–2026) – Full undergraduate scholarship
+- **UCWIT 2024 Excellent Paper Award** – Top 4 / 47 teams
+- **International Student Representative** – CS Department, KNU
+- **KERT Cybersecurity Club** – CTF competitions, web security
 
 ---
 
-## 🏆 **Achievements**
-- **Global Korea Scholarship Recipient (2022)**: Full scholarship for undergraduate studies.  
-- **UCWIT 2024 - Excellent Paper Award**: Comparative study on LLaMA and RASA for Conversational AI.  
-- **2nd Prize in International Talent Show**: Celebrating cultural creativity through dance.  
+## Connect
 
----
+📧 lathnishtha775@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nishtha-lath-335206276/)  
+📄 [Resume (English)](Resume%20(Lath%20Nishtha).pdf) · [이력서 (Korean)](이력서_니스타(2022427833).pdf)
 
-## 🛠️ **Tech Stack**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NishthaLath&theme=radical&no-frame=true&column=5&margin-w=15" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Keep%20Innovating!&fontSize=30&fontAlignY=65" />
-</p>
-
----
+**Location:** Daegu, South Korea · **GPA:** 3.55/4.3
