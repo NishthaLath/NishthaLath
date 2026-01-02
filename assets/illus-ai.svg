@@ -14,7 +14,7 @@
     </filter>
   </defs>
 
-  <rect x="12" y="12" width="496" height="116" rx="18" fill="#0b1220" stroke="url(#ai)" stroke-width="2"/>
+  <rect x="8" y="8" width="504" height="124" rx="18" fill="#0b1220" stroke="url(#ai)" stroke-width="2"/>
   <g stroke="url(#ai)" stroke-width="2" opacity="0.75">
     <path d="M90 70 L200 40 L320 70 L440 45" />
     <path d="M90 70 L200 100 L320 70 L440 95" />
@@ -32,7 +32,7 @@
     <circle cx="440" cy="95" r="9" fill="#22c55e"/>
   </g>
 
-  <text x="28" y="46" font-family="Fira Code, monospace" font-size="18" fill="#e5e7eb">AI Systems</text>
-  <text x="28" y="74" font-family="Fira Code, monospace" font-size="13" fill="#94a3b8">LLMs • Prompting • Fine-tuning</text>
-  <text x="28" y="98" font-family="Fira Code, monospace" font-size="13" fill="#94a3b8">Evaluation • Reliability • Deployment</text>
+  <text x="36" y="46" font-family="Fira Code, monospace" font-size="20" fill="#e5e7eb">AI Systems</text>
+  <text x="36" y="74" font-family="Fira Code, monospace" font-size="14" fill="#94a3b8">LLMs • Prompting • Fine-tuning</text>
+  <text x="36" y="98" font-family="Fira Code, monospace" font-size="14" fill="#94a3b8">Evaluation • Reliability • Deployment</text>
 </svg>

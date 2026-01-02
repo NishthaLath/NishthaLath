@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
 
-  <rect x="12" y="12" width="496" height="116" rx="18" fill="#0b1220" stroke="url(#rg)" stroke-width="2"/>
+  <rect x="8" y="8" width="504" height="124" rx="18" fill="#0b1220" stroke="url(#rg)" stroke-width="2"/>
 
   <!-- Docs -->
   <g>
@@ -39,6 +39,6 @@
     <text x="412" y="82" font-family="Fira Code, monospace" font-size="12" fill="#e5e7eb">LLM</text>
   </g>
 
-  <text x="28" y="40" font-family="Fira Code, monospace" font-size="18" fill="#e5e7eb">RAG Pipeline</text>
-  <text x="28" y="122" font-family="Fira Code, monospace" font-size="12" fill="#94a3b8">Docs → Embeddings → Retrieval → Grounded Answers</text>
+  <text x="36" y="40" font-family="Fira Code, monospace" font-size="18" fill="#e5e7eb">RAG Pipeline</text>
+  <text x="260" y="122" font-family="Fira Code, monospace" font-size="12" fill="#94a3b8" text-anchor="middle">Docs → Embeddings → Retrieval → Grounded Answers</text>
 </svg>
