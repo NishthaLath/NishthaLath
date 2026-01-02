@@ -31,7 +31,7 @@
   <a href="mailto:lathnishtha775@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="MyFiles/Resume (Lath Nishtha).pdf">
+  <a href="Resume (Lath Nishtha).pdf">
     <img src="https://img.shields.io/badge/Resume%20(EN)-FF9800?style=for-the-badge&logo=adobeacrobatreader">
   </a>
   <a href="이력서_니스타(2022427833).pdf">
