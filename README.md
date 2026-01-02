@@ -1,119 +1,179 @@
-
-# Nishtha Lath (니스타)
-
-Computer Science & Engineering @ Kyungpook National University (KNU). I build research-backed AI systems—especially conversational AI and RAG—and ship them as reliable web/backend products with a strong accessibility focus.
-
-## Focus
-
-- AI systems & LLM applications
-- Conversational AI & RAG
-- Web & backend engineering
-- Research-oriented development
-- Accessible & human-centered systems
-
-## Quick Links
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/nishtha-lath-335206276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lathnishtha775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="./Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-  <a href="./Resume_KR.pdf" target="_blank"><img src="https://img.shields.io/badge/이력서%20(KR)-2E7D32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nishtha%20Lath&fontSize=40&fontAlignY=35" />
 </p>
 
-> Note: If you don’t want to upload PDFs, update the two resume links above to your preferred URLs.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;LLM+%26+RAG+Developer;Full-Stack+Engineer;Research-Oriented+Builder;Designing+Human-Centered+AI" />
+</p>
 
-## Education
+<p align="center">
+  <em>Building intelligent systems that are practical, accessible, and grounded in research.</em>
+</p>
 
-**Kyungpook National University (KNU), South Korea** — B.S. Computer Science & Engineering (2022–2026)
+---
 
-- GPA: **3.55 / 4.3** (current semester: **3.77 / 4.3**)
-- Coursework focus: AI/ML, OS, Networks, DB Systems, Software Engineering, Cybersecurity fundamentals
+## 🌍 Identity
 
-## Languages
+<p align="center">
+🎓 <b>B.S. in Computer Science & Engineering</b>, Kyungpook National University (2022–2026)<br/>
+📍 Daegu, South Korea<br/>
+🧠 AI Systems • LLMs • RAG • Web & Backend Engineering
+</p>
 
-- English (Fluent)
-- Hindi (Native)
-- Korean (Advanced — TOPIK Level 5)
+---
 
-## Skills
+## 🔗 Connect With Me
 
-**Languages:** Python, Java, JavaScript, C, C++, HTML, CSS (Tailwind)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nishtha-lath-335206276/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:lathnishtha775@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="MyFiles/Resume (Lath Nishtha).pdf">
+    <img src="https://img.shields.io/badge/Resume%20(EN)-FF9800?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+  <a href="이력서_니스타(2022427833).pdf">
+    <img src="https://img.shields.io/badge/이력서%20(KR)-2E7D32?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+</p>
 
-**AI/ML:** LLaMA, GPT • RAG • Prompt engineering • Fine-tuning (Unsloth) • NLP & conversational AI • Dataset creation/preprocessing
+---
 
-**Frameworks/Libraries:** FastAPI, LangChain, FAISS • PyTorch, Transformers • React (TypeScript) • Spring Boot, JPA/Hibernate
+<img src="assets/separator-wave.svg" width="100%" />
 
-**Backend/Infra:** REST API design • Docker, NGINX • AWS EC2 • Vector databases • Reverse proxy, CORS, port binding
+## 🚀 What I Build
 
-**Computer Vision:** YOLO, MediaPipe, ST-GCN • DeepSORT • FaceNet, OSNet (Torchreid) • OpenCV
+🧠 **AI & LLM Systems**
+- LLaMA, GPT-based applications
+- RAG pipelines using LangChain & FAISS
+- Prompt engineering & fine-tuning (Unsloth)
 
-**Cloud/APIs:** Google Cloud (STT, TTS, Maps) • Hugging Face Hub • Git/GitHub
+🕸️ **Web & Backend Engineering**
+- FastAPI, Spring Boot
+- RESTful APIs
+- Dockerized deployment (AWS EC2, NGINX)
 
-## Research & Publications
+👁️ **Computer Vision & Surveillance AI**
+- YOLO, DeepSORT
+- ST-GCN (Action Recognition)
+- FaceNet & OSNet (Person Re-ID)
 
-### Evaluating LLaMA Model for Enhanced Conversational AI in Voice Recognition Kiosks
+☁️ **Cloud & APIs**
+- Google Cloud (STT, TTS, Maps)
+- Hugging Face Hub
+- Git & GitHub
 
-**UCWIT 2024 (KIISE-hosted)** — **Excellent Paper Award (Top 4 / 47 teams)**
+---
 
-- Compared rule-based conversational frameworks (RASA) vs LLaMA under ambiguous, multi-intent kiosk inputs
-- Built controlled conversational scenarios + task-based metrics for fair evaluation
-- Outcome: LLaMA handled real-world dialogue variability and recovery more robustly
+<img src="assets/illus-rag.svg" width="100%" />
 
-**Tech:** LLaMA, RASA, Python
+## 🧠 LLM & RAG Systems
 
-## Experience
+- Designed and deployed **production-grade RAG systems**
+- Built retrieval pipelines to reduce hallucinations
+- Integrated vector databases with FastAPI backends
+- Focus on reliability, latency, and real-user interaction
 
-### Frontend Developer Intern (Team Leader) — RikkeiSoft Corporation (Dec 2024 – Jan 2025)
+---
 
-- Led frontend architecture in **React (TypeScript)** with Tailwind CSS
-- Delivered role-based dashboards (user/admin), prompt customization, file/link management, admin controls
-- Coordinated team execution via planning artifacts (WBS/Gantt)
+<img src="assets/illus-cv.svg" width="100%" />
 
-### Undergraduate Lab Intern — Intelligent Software Systems Lab (Oct 2025 – Dec 2025)
+## 👁️ Computer Vision & Behavior Analysis
 
-- Built a **RAG-based disaster response assistant** integrating legal manuals, population datasets, and geo-spatial risk data
-- Implemented FAISS vector store + LangChain pipelines; optimized FastAPI backend for retrieval quality and latency
+- Multi-person tracking using YOLO + DeepSORT
+- Cross-camera identity matching with OSNet
+- Action recognition using ST-GCN
+- Applied to real CCTV-style datasets
 
-## Projects
+---
 
-### SheBots — AI-Integrated RAG Chatbot for a Department Website
+<img src="assets/separator-pulse.svg" width="100%" />
 
-- Designed hybrid RAG architecture (LangChain + FAISS) and deployed on AWS EC2
-- Production operations: Docker, NGINX reverse proxy, CORS + port binding fixes, disk expansion
+## 📚 Research & Publications
 
-**Tech:** FastAPI, LangChain, FAISS, AWS EC2, Docker, NGINX
+### 🏆 UCWIT 2024 (KIISE-hosted) — Excellent Paper Award  
+**Title:** *Evaluating LLaMA Model for Enhanced Conversational AI in Voice Recognition Kiosks*  
+**Ranking:** Top 4 / 47 teams  
 
-### Accessible Public Transportation Kiosk (Visioned)
+**Research Focus**
+- Comparative evaluation of **LLaMA vs RASA**
+- Handling ambiguity, multi-intent, and recovery
+- Realistic kiosk-style conversational scenarios
 
-- Voice-driven kiosk backend with route optimization
-- Integrated Google Cloud STT/TTS/Maps; focused on accessibility for elderly users
+**My Contributions**
+- Designed evaluation methodology
+- Built conversational test datasets
+- Analyzed system failure modes
+- Co-authored paper & presentation
 
-**Tech:** Node.js, React, Google Cloud APIs
+🔗 Paper / Repo: *(to be added)*  
+📌 Slides / Poster: *(to be added)*
 
-### AI-Driven Voice Recognition Cafe Kiosk
+---
 
-- Prompt-engineered robust ordering for ambiguous, multi-item requests
-- Fine-tuned LLaMA models using Unsloth; deployed via Hugging Face Hub
+<img src="assets/separator-wave.svg" width="100%" />
 
-**Tech:** Python, PyTorch/Transformers, LLaMA, Unsloth
+## 🏆 Selected Projects
 
-### AI-Based Multi-CCTV Person Detection & Behavior Analysis
+### 🤖 SheBots — AI RAG Chatbot (Production)
+- Deployed on AWS using FastAPI, Docker, NGINX
+- Real users accessing university information
+- Full backend & AI pipeline ownership
 
-- Multi-person tracking (YOLO + DeepSORT), action recognition (ST-GCN)
-- Cross-camera re-identification (FaceNet + OSNet/Torchreid) with evaluation on real datasets
+### 🗣️ AI Voice-Driven Cafe Kiosk
+- LLaMA-based conversational ordering
+- Handles complex and ambiguous orders
+- Prompt engineering & fine-tuning
 
-**Tech:** Python, OpenCV, YOLO, DeepSORT, Torchreid
+### 🚌 Accessible Public Transportation Kiosk (길:벗 / VisOned)
+- Voice-driven navigation for elderly users
+- Google Maps + STT/TTS integration
+- Human-centered design focus
 
-## Leadership & Activities
+### 📹 Multi-CCTV Behavior Analysis System
+- Detection, tracking, re-identification
+- Action recognition pipeline
+- Performance evaluation on real datasets
 
-- International Student Representative (CS Dept)
-- ISO member (event organization & student support)
-- KERT Cybersecurity Club (CTFs, web security, cryptography)
-- Dance & debate competitions (multiple awards; bilingual Korean/English debate)
+---
 
-## Stats
+## 🏅 Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishthaLath&show_icons=true&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishthaLath&layout=compact&hide_border=true" width="48%">
-</div>
+🏆 **UCWIT 2024 – Excellent Paper Award**  
+🎓 **Global Korea Scholarship (2022)**  
+🥈 **International Student Talent Show – 2nd Prize**
+
+---
+
+<img src="assets/separator-pulse.svg" width="100%" />
+
+## 🛠 Tech Stack Snapshot
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,fastapi,pytorch,docker,aws,git&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishthaLath&show_icons=true&theme=dracula&hide_border=true" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishthaLath&layout=compact&theme=dracula&hide_border=true" width="47%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NishthaLath&theme=dracula&no-frame=true&column=5" />
+</p>
+
+---
+
+<p align="center">
+  <strong>“I don’t just build projects — I design systems that think.”</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Let’s%20Build%20Something%20Meaningful&fontSize=28&fontAlignY=65" />
+</p>
