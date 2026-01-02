@@ -1,0 +1,19 @@
+<svg width="100%" height="24" viewBox="0 0 1200 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M0,12 C150,0 300,24 450,12 C600,0 750,24 900,12 C1050,0 1200,24 1200,12"
+        fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="d" dur="2.8s" repeatCount="indefinite"
+      values="
+        M0,12 C150,0 300,24 450,12 C600,0 750,24 900,12 C1050,0 1200,24 1200,12;
+        M0,12 C150,24 300,0 450,12 C600,24 750,0 900,12 C1050,24 1200,0 1200,12;
+        M0,12 C150,0 300,24 450,12 C600,0 750,24 900,12 C1050,0 1200,24 1200,12
+      " />
+  </path>
+</svg>

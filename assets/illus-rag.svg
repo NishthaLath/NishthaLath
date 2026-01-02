@@ -1,0 +1,44 @@
+<svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="60%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="12" y="12" width="496" height="116" rx="18" fill="#0b1220" stroke="url(#rg)" stroke-width="2"/>
+
+  <!-- Docs -->
+  <g>
+    <rect x="40" y="48" width="88" height="56" rx="10" fill="#111827" stroke="url(#rg)" stroke-width="2"/>
+    <line x1="56" y1="66" x2="112" y2="66" stroke="#94a3b8" stroke-width="2" opacity="0.7"/>
+    <line x1="56" y1="82" x2="104" y2="82" stroke="#94a3b8" stroke-width="2" opacity="0.55"/>
+    <line x1="56" y1="98" x2="96" y2="98" stroke="#94a3b8" stroke-width="2" opacity="0.4"/>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M140 76 H210" stroke="url(#rg)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M210 76 l-10 -7 v14 z" fill="url(#rg)"/>
+
+  <!-- Vector DB -->
+  <g>
+    <ellipse cx="260" cy="58" rx="46" ry="14" fill="#111827" stroke="url(#rg)" stroke-width="2"/>
+    <rect x="214" y="58" width="92" height="44" fill="#111827" stroke="url(#rg)" stroke-width="2"/>
+    <ellipse cx="260" cy="102" rx="46" ry="14" fill="#111827" stroke="url(#rg)" stroke-width="2"/>
+    <text x="232" y="82" font-family="Fira Code, monospace" font-size="12" fill="#e5e7eb">FAISS</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M312 76 H382" stroke="url(#rg)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M382 76 l-10 -7 v14 z" fill="url(#rg)"/>
+
+  <!-- LLM -->
+  <g>
+    <rect x="392" y="48" width="88" height="56" rx="14" fill="#111827" stroke="url(#rg)" stroke-width="2"/>
+    <text x="412" y="82" font-family="Fira Code, monospace" font-size="12" fill="#e5e7eb">LLM</text>
+  </g>
+
+  <text x="28" y="40" font-family="Fira Code, monospace" font-size="18" fill="#e5e7eb">RAG Pipeline</text>
+  <text x="28" y="122" font-family="Fira Code, monospace" font-size="12" fill="#94a3b8">Docs → Embeddings → Retrieval → Grounded Answers</text>
+</svg>
