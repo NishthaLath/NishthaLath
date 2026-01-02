@@ -160,8 +160,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishthaLath&show_icons=true&theme=dracula&hide_border=true" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishthaLath&layout=compact&theme=dracula&hide_border=true" width="47%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NishthaLath&show_icons=true&theme=dracula&hide_border=true" width="47%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NishthaLath&layout=compact&theme=dracula&hide_border=true" width="47%">
 </p>
 
 <p align="center">
