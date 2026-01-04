@@ -122,13 +122,15 @@
 - Full backend & AI pipeline ownership
 
 🔗 **[Frontend Repository](https://github.com/NishthaLath/InflowChat_Chatbot_Frontend)**
+🔗 **[Organisation Repository](https://github.com/InfoFlow-ChatBot-RikkeiSoft-Corp)**
 
 ### 🗣️ AI Voice-Driven Cafe Kiosk
 - LLaMA-based conversational ordering
 - Handles complex and ambiguous orders
 - Prompt engineering & fine-tuning
 
-🔗 **[Repository](https://github.com/NishthaLath/LLama_AI)**
+🔗 **[Frontend Repository](https://github.com/AI-coffee-Kiosk/LLama_front)**
+🔗 **[Organisation Repository](https://github.com/AI-coffee-Kiosk)**
 
 ### 🚌 Accessible Public Transportation Kiosk (길:벗 / VisOned)
 - Voice-driven navigation for elderly users
@@ -141,6 +143,9 @@
 - Detection, tracking, re-identification
 - Action recognition pipeline
 - Performance evaluation on real datasets
+
+🔗 **[Organisation Repository](https://github.com/Multi-CCTV-Human-Behavior-Analysis)**
+🔗 **[Human Recognition Repository](https://github.com/Multi-CCTV-Human-Behavior-Analysis/HumanRecognition)**
 
 ---
 
