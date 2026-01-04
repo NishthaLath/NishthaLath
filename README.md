@@ -180,6 +180,203 @@
 
 ---
 
+<img src="assets/separator-wave.svg" width="100%" />
+
+## 📦 Complete Repository & Organization Directory
+
+### 👤 Personal Repositories
+
+#### 🔬 Research & Academic Projects
+
+1. **[UCWIT-2024-ResearchPaper](https://github.com/NishthaLath/UCWIT-2024-ResearchPaper)**
+   - 🏆 Award-winning research paper presented at UCWIT 2024
+   - 📄 Focus: LLaMA Model evaluation for conversational AI
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+2. **[Build-with-AI-2025-Workshop](https://github.com/NishthaLath/Build-with-AI-2025-Workshop)**
+   - 🧪 Workshop materials for AI development
+   - 💻 Language: Jupyter Notebook
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+#### 💻 Course & Learning Projects
+
+3. **[Network_Programming](https://github.com/NishthaLath/Network_Programming)**
+   - 🌐 Network programming coursework and implementations
+   - 💻 Language: C
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+4. **[DataStructures-2023](https://github.com/NishthaLath/DataStructures-2023)**
+   - 📚 Data structures course implementations
+   - 💻 Language: C
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+5. **[JAVA-2023](https://github.com/NishthaLath/JAVA-2023)**
+   - ☕ Java programming course projects
+   - 💻 Language: Java
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+#### 🤖 AI & Machine Learning Projects
+
+6. **[Disaster_Management_RAG_System](https://github.com/NishthaLath/Disaster_Management_RAG_System)**
+   - 🚨 RAG-based system for disaster management information
+   - 💻 Language: Python
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+7. **[Quine-McCluskey-Boolean-Minimization-With-Petricks-Method](https://github.com/NishthaLath/Quine-McCluskey-Boolean-Minimization-With-Petricks-Method)**
+   - 🔧 Boolean function minimization implementation
+   - 💻 Language: C++
+   - 📜 License: MIT
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+#### 🌐 Web & Backend Projects
+
+8. **[InflowChat_Chatbot_Frontend](https://github.com/NishthaLath/InflowChat_Chatbot_Frontend)**
+   - 💬 Frontend for InfoFlow RAG chatbot system
+   - 💻 Language: TypeScript
+   - 📜 License: MIT
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+9. **[VISIONED-KNU-Kiosk-Backend](https://github.com/NishthaLath/VISIONED-KNU-Kiosk-Backend)**
+   - 🚌 Backend for accessible public transportation kiosk
+   - 💻 Language: CSS
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+10. **[KERT_Backend](https://github.com/NishthaLath/KERT_Backend)**
+    - 🔙 Backend service implementation
+    - 💻 Language: Java
+    - ⭐ Stars: 0 | 🍴 Forks: 0
+
+#### 🎨 Portfolio & Profile
+
+11. **[Portfolio](https://github.com/NishthaLath/Portfolio)**
+    - 🌟 Personal portfolio website
+    - 💻 Language: TypeScript
+    - 🌐 Pages: Enabled
+    - ⭐ Stars: 0 | 🍴 Forks: 0
+
+12. **[NishthaLath](https://github.com/NishthaLath/NishthaLath)**
+    - 👋 GitHub profile README repository
+    - 📝 This repository!
+    - ⭐ Stars: 0 | 🍴 Forks: 0
+
+---
+
+### 🏢 Organization Repositories
+
+#### 1️⃣ InfoFlow-ChatBot-RikkeiSoft-Corp
+> 🔗 **Organization:** [InfoFlow-ChatBot-RikkeiSoft-Corp](https://github.com/InfoFlow-ChatBot-RikkeiSoft-Corp)  
+> 🎯 **Focus:** Enterprise RAG chatbot for Rikkeisoft Corp (2000+ employees)
+
+**Repositories:**
+
+1. **[Backend](https://github.com/InfoFlow-ChatBot-RikkeiSoft-Corp/Backend)**
+   - 🔧 RAG chatbot backend with FastAPI
+   - 💻 Language: Python
+   - 📊 Size: 43,903 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+2. **[Frontend](https://github.com/InfoFlow-ChatBot-RikkeiSoft-Corp/Frontend)**
+   - 🎨 React-based frontend interface
+   - 💻 Language: TypeScript
+   - 📜 License: MIT
+   - 📊 Size: 1,379 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+3. **[InfoFlow-ChatBot](https://github.com/InfoFlow-ChatBot-RikkeiSoft-Corp/InfoFlow-ChatBot)**
+   - 📚 Main repository and documentation
+   - 💻 Language: Jupyter Notebook
+   - 📝 Handles 600+ process documents
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+4. **[.github](https://github.com/InfoFlow-ChatBot-RikkeiSoft-Corp/.github)**
+   - ⚙️ Organization profile and workflows
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+#### 2️⃣ AI-coffee-Kiosk
+> 🔗 **Organization:** [AI-coffee-Kiosk](https://github.com/AI-coffee-Kiosk)  
+> 🎯 **Focus:** LLaMA-powered voice-driven cafe ordering kiosk
+
+**Repositories:**
+
+1. **[LLama_front](https://github.com/AI-coffee-Kiosk/LLama_front)**
+   - 🎨 Frontend interface for kiosk
+   - 💻 Language: HTML
+   - 📊 Size: 2,411 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+2. **[LLAMA_INFER](https://github.com/AI-coffee-Kiosk/LLAMA_INFER)**
+   - 🧠 LLaMA inference implementation
+   - 💻 Language: Jupyter Notebook
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+3. **[Prompting-for-llama](https://github.com/AI-coffee-Kiosk/Prompting-for-llama)**
+   - 📝 Prompt engineering for LLaMA
+   - 💻 Language: Jupyter Notebook
+   - 📊 Size: 616 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+4. **[Finetuning_llama](https://github.com/AI-coffee-Kiosk/Finetuning_llama)**
+   - 🎯 LLaMA fine-tuning with Unsloth
+   - 💻 Language: Jupyter Notebook
+   - 📊 Size: 5,434 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+5. **[Colab_Notebooks](https://github.com/AI-coffee-Kiosk/Colab_Notebooks)**
+   - 📓 Google Colab experiments
+   - 💻 Language: Python
+   - 📊 Size: 1,011 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+6. **[stt-tts](https://github.com/AI-coffee-Kiosk/stt-tts)**
+   - 🎤 Speech-to-text and text-to-speech
+   - 💻 Language: HTML
+   - 📊 Size: 4,190 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+7. **[UCWIT2024_Research_Paper](https://github.com/AI-coffee-Kiosk/UCWIT2024_Research_Paper)**
+   - 📄 Research paper repository
+   - 🏆 Excellent Paper Award winner
+   - 📊 Size: 18,073 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+8. **[.github](https://github.com/AI-coffee-Kiosk/.github)**
+   - ⚙️ Organization profile
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+#### 3️⃣ Multi-CCTV-Human-Behavior-Analysis
+> 🔗 **Organization:** [Multi-CCTV-Human-Behavior-Analysis](https://github.com/Multi-CCTV-Human-Behavior-Analysis)  
+> 🎯 **Focus:** Multi-camera surveillance and human behavior analysis
+
+**Repositories:**
+
+1. **[HumanRecognition](https://github.com/Multi-CCTV-Human-Behavior-Analysis/HumanRecognition)**
+   - 👁️ Detection, tracking, and re-identification
+   - 💻 Language: Python
+   - 🤖 Uses: YOLO, DeepSORT, OSNet, FaceNet
+   - 📊 Size: 311,295 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+2. **[cctv-server](https://github.com/Multi-CCTV-Human-Behavior-Analysis/cctv-server)**
+   - 🖥️ Server for multi-CCTV management
+   - 💻 Language: HTML
+   - 📊 Size: 240,221 KB
+   - ⭐ Stars: 0 | 🍴 Forks: 0
+
+---
+
+### 📊 Repository Statistics Summary
+
+| Category | Count |
+|----------|-------|
+| **Personal Repositories** | 12 |
+| **Organizations** | 3 |
+| **Organization Repositories** | 14 |
+| **Total Repositories** | 26 |
+| **Primary Languages** | Python, TypeScript, Java, C, C++, HTML, Jupyter Notebook |
+| **Main Focus Areas** | AI/ML, RAG Systems, Computer Vision, Web Development |
+
+---
+
 <p align="center">
   <strong>“I don’t just build projects — I design systems that think.”</strong>
 </p>
