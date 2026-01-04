@@ -108,8 +108,7 @@
 - Analyzed system failure modes
 - Co-authored paper & presentation
 
-🔗 Paper / Repo: *(to be added)*  
-📌 Slides / Poster: *(to be added)*
+🔗 **[Research Paper Repository](https://github.com/NishthaLath/UCWIT-2024-ResearchPaper)**
 
 ---
 
@@ -122,15 +121,21 @@
 - Real users accessing university information
 - Full backend & AI pipeline ownership
 
+🔗 **[Frontend Repository](https://github.com/NishthaLath/InflowChat_Chatbot_Frontend)**
+
 ### 🗣️ AI Voice-Driven Cafe Kiosk
 - LLaMA-based conversational ordering
 - Handles complex and ambiguous orders
 - Prompt engineering & fine-tuning
 
+🔗 **[Repository](https://github.com/NishthaLath/LLama_AI)**
+
 ### 🚌 Accessible Public Transportation Kiosk (길:벗 / VisOned)
 - Voice-driven navigation for elderly users
 - Google Maps + STT/TTS integration
 - Human-centered design focus
+
+🔗 **[Backend Repository](https://github.com/NishthaLath/VISIONED-KNU-Kiosk-Backend)**
 
 ### 📹 Multi-CCTV Behavior Analysis System
 - Detection, tracking, re-identification
